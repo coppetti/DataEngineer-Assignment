@@ -1,16 +1,16 @@
-# Yacht Data Engineer Test
+# Yacht Data Engineer Assignment
 
 ## The Challenge
 The city of Seattle has an open data program where we can find different datasets.
 For this challenge we will be analysing their data for Crimes and Use of Force.
 
-Your task here is to ETL these data into you preferred DB, and:
+Your task here is to ETL these data into you preferred DB and programming language, and:
 
 * Provide a report with crimes by date and time;
 * Provide a report with crimes by date,time and precinct-sector;
 * Provide a report with crimes by time and precinct;
 * Analyse the Use of Force dataset and give your insights regarding the use of force in each precinct-sector and the
-incidents in same area (date, time, datetime). 
+incidents in same area (date, time, datetime).
 
 The outputs must be in a well documented CSV format.
 
