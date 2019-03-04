@@ -6,10 +6,10 @@ For this challenge we will be analysing their data for Crimes and Use of Force.
 
 Your task here is to ETL these data into you preferred DB, and:
 
-1 - Provide a report with crimes by date and time;
-2 - Provide a report with crimes by date,time and precinct-sector;
-3 - Provide a report with crimes by time and precinct;
-4 - Analyse the Use of Force dataset and give your insights regarding the use of force in each precinct-sector and the
+* Provide a report with crimes by date and time;
+* Provide a report with crimes by date,time and precinct-sector;
+* Provide a report with crimes by time and precinct;
+* Analyse the Use of Force dataset and give your insights regarding the use of force in each precinct-sector and the
 incidents in same area (date, time, datetime). 
 
 The outputs must be in a well documented CSV format.
@@ -38,8 +38,8 @@ ID,Incident_Num,Incident_Type,Occured_date_time,Precinct,Sector,Beat,Officer_ID,
 ## Acceptance Criteria
 In order to have a full solution we ask you to:
 
-1 - Write a README.m file with your documentation and usage instructions;
-2 - Write unit tests;
-3 - Deploy your solution in a Docker image;
-4 - Your solutiuon must run in a UNIX environment with `./run.sh`;
-5 - Your solution must be hosted on a public github and contains all your git history.
+* Write a README.m file with your documentation and usage instructions;
+* Write unit tests;
+* Deploy your solution in a Docker image;
+* Your solutiuon must run in a UNIX environment with `./run.sh`;
+* Your solution must be hosted on a public github and contains all your git history.
