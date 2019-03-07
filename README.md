@@ -49,6 +49,6 @@ In order to have a full solution we ask you to:
 ## Bonus
 Feel free to add new features e.g:
 
-* Use a streaming technology (kafka, storm, flume, spark streaming)
-* Unleash the power of spark
+* Use a streaming technology (kafka, storm, flume, spark streaming);
+* Use spark to proccess your data;
 * Any other idea would be welcome!
