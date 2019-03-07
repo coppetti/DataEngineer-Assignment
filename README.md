@@ -45,3 +45,10 @@ In order to have a full solution we ask you to:
 * Deploy your solution in a Docker image;
 * Your solution must run in a UNIX environment with `./run.sh`;
 * Your solution must be hosted on a public github and contains all your git history.
+
+## Bonus
+Feel free to add new features e.g:
+
+* Use a streaming technology (kafka, storm, flume, spark streaming)
+* Unleash the power of spark
+* Any other idea would be welcome!
